@@ -7,3 +7,6 @@ html{
 .example-form > div{
     margin-top: 20px;
 }
+#distribute{
+    background: url("../images/bg-flatform-2.png");
+}
