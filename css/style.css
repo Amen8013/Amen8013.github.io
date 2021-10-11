@@ -716,3 +716,7 @@ textarea {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+
+.people img{
+	margin: 0 auto;
+}
